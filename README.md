@@ -85,14 +85,14 @@
  
 <br>
 
-	## Personal Projects
+## Personal Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
 | [**Meeting Summarization**](https://github.com/itxfida/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/transcript_summary?color=green&logo=github&style=flat)](https://github.com/itxfida/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/transcript_summary?style=flat&logo=github)](https://github.com/itxfida/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/itxfida/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/transcript_summary?color=blue&logo=github&style=flat)](https://github.com/itxfida/transcript_summary/commits/) |
-| [**Github Profile**](https://github.com/saadfareed/saadfareed) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github)](https://github.com/saadfareed/saadfareed/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github)](https://github.com/saadfareed/saadfareed/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/commits/) |
-| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/commits/)|
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github)](https://github.com/saadfareed/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/commits/) |
+| [**Github Profile**](https://github.com/itxfida/itxfida) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/itxfida/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/itxfida/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/itxfida/itxfida/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/itxfida/itxfida/commits/) |
+| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/itxfida/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/Certificate_generator?style=flat&logo=github)](https://github.com/itxfida/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/itxfida/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/itxfida  /Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/itxfida/Certificate_generator/commits/)|
+| [**Leetcode Practice**](https://github.com/itxfida/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/Leetcode?color=green&logo=github&style=flat)](https://github.com/itxfida/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/Leetcode?style=flat&logo=github)](https://github.com/itxfida/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/Leetcode?style=flat&color=critical&logo=github)](https://github.com/itxfida/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/Leetcode?color=blue&logo=github&style=flat)](https://github.com/itxfida/Leetcode/commits/) |
 
 	
  
@@ -108,3 +108,35 @@
 </p>
 </p>
 <br>
+## ⚡️Github Contributions
+	
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+
+
+## 🚀Github Metrics
+<p align="center">
+	<img width="625em" src="https://github.com/itxfida/itxfida/blob/main/github-metrics.svg" />
+</p>
+<br>
+
+## 🐛Github Magic Game
+<p align="center">
+  <img src="https://github.com/itxfida/itxfida/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+<h2 >🏆 GitHub Profile Trophy</h2>
+<p>
+<a href="https://github.com/itxfida">
+  <img src="https://github-profile-trophy.vercel.app/?username=itxfida&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+
+</a>
+</p>
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/itxfida/count.svg" />
+</p>
