@@ -64,9 +64,6 @@
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
   
- <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
   <td align='center'>
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
@@ -86,7 +83,7 @@
  
 <br>
 
-## Personal Projects
+	## Personal Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
