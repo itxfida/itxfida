@@ -7,7 +7,7 @@
 	
 
  ## About Me
-<img align="right" alt="" src="github.jpg" width="170" />
+<img align="right" alt="" src="github.jpg" width="200" />
 	
 ### I'm a Student, Learner and Developer!
 - 🔭 I’m currently working as a student.
