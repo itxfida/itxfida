@@ -3,10 +3,12 @@
     <h1> Hi there, I'm Fida Ullah👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/itfida"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Student;A+Learner;Frontend+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/itfida"><img src="https://readme-typing-svg.herokuapp.com
+lines=A+Student;A+Learner;Frontend+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+	
+
 	
 <img align="right" alt="" src="github.jpg" width="270" />
-
 ### I'm a Student, Learner and Developer!
 - 🔭 I’m currently working as a student.
 - 🌱 I’m currently expanding my knowledge in Python.
