@@ -63,9 +63,7 @@
     <td align='center'>
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
-    <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
-    </td>
+  
  <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
