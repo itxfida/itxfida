@@ -13,13 +13,13 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
       - name: Commit & Push
         run: |
           git config user.name itxfida
-          git config user.email 2018cs632@student.uet.edu.pk
+          git config user.email se120202011@kust.edu.pk
           git add -A .
           git commit -m "Personal 3d Contributions images updated"
           git push
