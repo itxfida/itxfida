@@ -90,6 +90,7 @@
 | [**Github Repository**](https://github.com/itxfida/itxfida) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/itxfida/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/itxfida/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/itxfida/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/commits/) |
 | [**Github Profile**](https://github.com/itxfida/itxfida) | [![GitHub issues](https://img.shields.io/github/issues/itxfida/itxfida?color=green&logo=github&style=flat)](https://github.com/itxfida/itxfida/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr/itxfida/itxfida?style=flat&logo=github)](https://github.com/itxfida/itxfida/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/itxfida/itxfida?style=flat&color=critical&logo=github)](https://github.com/itxfida/itxfida/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/itxfida/itxfida?color=blue&logo=github&style=flat)](https://github.com/itxfida/itxfida/commits/) |
 
+
  <h2>GitHub Analytics
  </h2>
 
@@ -102,7 +103,7 @@
 </p>
 </p>
 <br>
-## ⚡️Github Contributions
+ ## ⚡️Github Contributions
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
