@@ -104,7 +104,7 @@
 </p>
 </p>
 <br>
-<h2>⚡️Github Contributions</h2>
+<h2>⚡️Github Contribution</h2>
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
