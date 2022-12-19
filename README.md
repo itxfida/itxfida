@@ -83,7 +83,7 @@
  
 <br>
 
-## Personal Projects
+## Personal Project
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
