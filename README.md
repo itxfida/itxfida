@@ -14,7 +14,7 @@
 - 🌱 I’m currently expanding my knowledge in Python.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire other students also.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected  
  
 
