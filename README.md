@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Fida Ullah👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/itfida"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;A+Learner;Frontend+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/itfida"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Open+Source+Contributor;A+Learner;Frontend+Developer;Backend+Developer&center=true&width=500&height=50"></a>
 	
 
  ## About Me
